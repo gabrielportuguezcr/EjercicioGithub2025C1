@@ -1,0 +1,3 @@
+1. ¿Cuáles son los principales desafíos que enfrentan las organizaciones al adoptar Scrum y cómo pueden superarlos?
+
+Gabriel1: Adoptar Scrum es un desafío importante para las organizaciones, porque implica mucho más que cambiar procesos de desarrollo; se trata de transformar la forma en que toda la empresa trabaja e interactúa. Muchos creen que basta con capacitar al equipo técnico, sin considerar el impacto en otras áreas como ventas, finanzas o recursos humanos; la falta de visión integral causa que el cambio no se sostenga. Para superarlo, es clave entender que Scrum requiere una transformación organizacional completa, basada en el aprendizaje continuo, la adaptación al contexto y un compromiso colectivo tanto desde los líderes como desde los equipos.
