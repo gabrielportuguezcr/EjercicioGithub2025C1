@@ -1,0 +1,3 @@
+3. ¿Qué impacto tiene Scrum en la productividad y los costos de desarrollo en comparación con los enfoques tradicionales?
+
+Gabriel3: Scrum tiene un impacto positivo en la productividad y en la reducción de costos versus métodos tradicionales, permite a los equipos enfocarse en lo que realmente genera valor, evitando el desperdicio típico de los largos ciclos de desarrollo. Los estudios citados en el texto muestran aumentos de productividad de hasta un 88% y reducciones de costos del 26%, lo cual se traduce en una forma de trabajar más eficiente, ajustada a los cambios y con resultados medibles. Scrum no solo mejora la forma de trabajar, sino que también hace que los recursos rindan más.
