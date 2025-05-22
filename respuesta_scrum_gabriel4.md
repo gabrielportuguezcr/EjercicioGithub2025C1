@@ -1,0 +1,3 @@
+4. ¿Cómo afecta Scrum la satisfacción y el compromiso de los empleados dentro de una organización?
+
+Gabriel4: Scrum mejora notablemente la satisfacción y el compromiso de los empleados porque les devuelve el sentido de propósito y control sobre su trabajo, al eliminar la sobrecarga de horas extra, fomentar la colaboración constante y permitir que los resultados se vean pronto, las personas se sienten más valoradas y motivadas. Casos como Salesforce, donde la satisfacción laboral se duplicó después de adoptar Scrum, reflejan cómo un enfoque ágil puede transformar no solo los productos que se construyen, sino también el clima interno y la relación de los trabajadores con su propio trabajo.
